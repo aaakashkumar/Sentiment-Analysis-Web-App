@@ -2,6 +2,10 @@
 
 This project builds a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with [SageMaker](https://aws.amazon.com/sagemaker/).
 
+## Final Web App
+![A positive review](https://github.com/aaakashkumar/Sentiment-Analysis-Web-App/raw/master/screenshots/Screenshot%20from%202020-08-25%2000-12-23.png)
+![A negative review](https://github.com/aaakashkumar/Sentiment-Analysis-Web-App/raw/master/screenshots/Screenshot%20from%202020-08-25%2000-12-11.png)
+
 ## Setup Instructions
 
 The notebooks provided in this repository are intended to be executed using Amazon's SageMaker platform. The following is a brief set of instructions on setting up a managed notebook instance using SageMaker, from which the notebooks can be completed and run.
